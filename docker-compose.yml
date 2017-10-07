@@ -1,0 +1,26 @@
+version: "2"
+
+networks:
+    internal:
+        driver: bridge
+
+services:
+    django:
+        build:
+            context: "./dashboard/"
+        ports:
+            - "8080:8080"
+        depends_on:
+            - mongodb
+        networks:
+            - internal
+        environment:
+            - PYTHONUNBUFFERED=0
+        volumes:
+            - "./dashboard:/usr/app/dashboard"
+    mongodb:
+        image: mongo
+        networks:
+            - internal
+        volumes:
+            - "./data:/data/db"

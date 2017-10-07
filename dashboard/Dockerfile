@@ -1,13 +1,15 @@
-FROM python:3.5-jessie
+FROM python:3.4-jessie
 
-RUN pip install django
-ADD . /usr/app/dashboard
+RUN pip install Django
+RUN pip install gunicorn
+# RUN pip install git+https://github.com/django-nonrel/django@nonrel-1.5
+# RUN pip install git+https://github.com/django-nonrel/djangotoolbox
+# RUN pip install git+https://github.com/django-nonrel/mongodb-engine
+# COPY . /usr/app/dashboard
+# RUN cd /usr/app/dashboard
 
 WORKDIR /usr/app/dashboard
 
 EXPOSE 8080
 
-RUN python manage.py migrate
-
-ENTRYPOINT python manage.py makemigrations && python manage.py runserver 0.0.0.0:8080
-# ENTRYPOINT /bin/bash
+ENTRYPOINT gunicorn dashboard.wsgi:application --bind 0.0.0.0:8080 --workers 4
