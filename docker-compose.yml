@@ -16,8 +16,8 @@ services:
             - internal
         environment:
             - PYTHONUNBUFFERED=0
-        volumes:
-            - "./dashboard:/usr/app/dashboard"
+        # volumes:
+        #     - "./dashboard:/usr/app/dashboard"
     mongodb:
         image: mongo
         networks:

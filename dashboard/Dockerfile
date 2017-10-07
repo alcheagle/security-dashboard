@@ -5,7 +5,7 @@ RUN pip install gunicorn
 # RUN pip install git+https://github.com/django-nonrel/django@nonrel-1.5
 # RUN pip install git+https://github.com/django-nonrel/djangotoolbox
 # RUN pip install git+https://github.com/django-nonrel/mongodb-engine
-# COPY . /usr/app/dashboard
+COPY . /usr/app/dashboard
 # RUN cd /usr/app/dashboard
 
 WORKDIR /usr/app/dashboard
