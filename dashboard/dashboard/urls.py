@@ -27,15 +27,13 @@ def query_mongo_per_coglioni (domain):
     pass
 
 def get_url (request):
-    if request.method=='POST':
-        pass
-        # try url=request.POST.get('url_field'):
-        #
-        # except Exception:
-        #     return HttpResponse("Url field empty")
+    if request.method == 'GET':
+        url=request.GET['site']
+        query_mongo_per_coglioni(url)
     else:
         return HttpResponse("Bad transition method")
 
 urlpatterns = [
+    url(r'^result', get_url),
     url(r'^', show_start_page),
 ]
