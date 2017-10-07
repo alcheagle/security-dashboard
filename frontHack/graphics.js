@@ -30,6 +30,7 @@ function sendData(){
         //get the input value
         $someInput = $('#inputVal').val();
         console.log($someInput);
+        
         window.location = "result.html";
         /*$.ajax({
             //the url to send the data to
