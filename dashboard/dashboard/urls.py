@@ -15,7 +15,27 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.template import loader
+from scanner import models
+
+def show_start_page (request):
+    return (HttpResponse((loader.get_template("index.html")).render(None, request)))
+
+def query_mongo_per_coglioni (domain):
+    pass
+
+def get_url (request):
+    if request.method=='POST':
+        pass
+        # try url=request.POST.get('url_field'):
+        #
+        # except Exception:
+        #     return HttpResponse("Url field empty")
+    else:
+        return HttpResponse("Bad transition method")
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
+    url(r'^', show_start_page),
 ]
