@@ -1,3 +1,27 @@
+function drawCiambella1(){
+    data = {
+        datasets: [{
+            data: [80, 20],
+
+            backgroundColor: ['rgba(42, 153, 209, 1)',
+                'rgba(193, 9, 9 ,1)',
+              ]
+        }],
+
+        // These labels appear in the legend and in the tooltips when hovering different arcs
+        labels: [
+            'Http',
+            'Https',
+        ],
+    };
+    var ctx = document.getElementById("myChart").getContext('2d');
+    var myPieChart = new Chart(ctx,{
+        type: 'pie',
+        data: data,
+        options: Chart.defaults.doughnut
+    });
+}
+
 function drawCiambella(){
     data = {
         datasets: [{
@@ -24,15 +48,15 @@ function drawCiambella(){
 
 function runScript(e) {
     if (e.keyCode == 13) {
-        $site = $('#inputVal').val();
-        console.log($site);
+        $someInput = $('#inputVal').val();
+        console.log($someInput);
 
         // window.location = "scan?site="+$someInput;
         $.ajax({
             //the url to send the data to
             url: "scan",
             //the data to send to
-            data: {site : $site},
+            data: {someInput : $someInput},
             //type. for eg: GET, POST
             type: "GET",
             //datatype expected to get in reply form server
@@ -42,8 +66,8 @@ function runScript(e) {
                 //do something after something is recieved from php
             },
             //on error
-            error: function(error){
-                // debugger;
+            error: function(){
+                //bad request
             }
         });
     }
@@ -52,15 +76,15 @@ function runScript(e) {
 
 function sendData(){
     //get the input value
-    $site = $('#inputVal').val();
-    console.log($site);
+    $someInput = $('#inputVal').val();
+    console.log($someInput);
 
     // window.location = "scan?site="+$someInput;
     $.ajax({
         //the url to send the data to
         url: "scan",
         //the data to send to
-        data: {site : $site},
+        data: {site : $someInput},
         //type. for eg: GET, POST
         type: "GET",
         //datatype expected to get in reply form server
@@ -72,6 +96,7 @@ function sendData(){
         //on error
         error: function(error){
             // debugger;
+            console.log(error)
         }
     });
 }
