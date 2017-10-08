@@ -15,8 +15,60 @@ Including another URLconf
 """
 from django.conf.urls import url
 from main_page import views as main_page_view
+from mongo_model import  database
+from django.http import HttpResponse
+from django.template import loader
+from django.shortcuts import render
+
+def renderSitewithParam(request):
+    template=loader.get_loader("allDomains.html")
+
+    lstHttps=database.getAllLatestToolProperty("PSHHT","Valid HTTPS")
+    httpsTrue = 0
+    for tpl in lstHttps:
+        if tpl[1]=="true":
+            httpsTrue +=1
+    httpsFalse = len(lstHttps)-httpsTrue
+
+    lstRedirect=database.getAllLatestToolProperty("PSHHT","Redirect")
+    redirectTrue=0
+    for tpl in lstRedirect:
+        if tpl[1]=="true":
+            redirectTrue +=1
+    redirectFalse = len(lstRedirect)-redirectTrue
+
+
+    lstSPF=database.getAllLatestToolProperty("PSHHT","Valid SPF")
+    SPFTrue=0
+    for tpl in lstSPF:
+        if tpl[1]=="true":
+            SPFTrue +=1
+    SPFFalse = len(lstSPF)-SPFTrue
+
+    lstMX=database.getAllLatestToolProperty("PSHHT","MX Record")
+    MXTrue=0
+    for tpl in lstMX:
+        if tpl[1]=="true":
+            MXTrue +=1
+    MXFalse = len(lstMX)-MXTrue
+
+    context = {
+        'httpsTrue' : httpsTrue,
+        'httpsFalse' : httpsFalse,
+        'redirectTrue' : redirectTrue,
+        'redirectFalse' : redirectFalse,
+        'SPFTrue' : SPFTrue,
+        'SPFFalse' : SPFFalse,
+        'MXTrue' : MXTrue,
+        'MXFalse' : MXFalse,
+    }
+    return (HttpResponse(template.render(context, requests)))
+
+
 
 urlpatterns = [
+    url(r'^allDomains', renderSitewithParam),
     url(r'^scan', main_page_view.get_url),
     url(r'^', main_page_view.show_start_page),
+
 ]

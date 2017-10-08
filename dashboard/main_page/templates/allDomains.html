@@ -1,3 +1,7 @@
+{% extends extension %}
+
+{% block content %}
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +38,7 @@
     </ul>
     <ul class="nav navbar-nav navbar-right" >
 
-        <li  ><a  href="site.html" alt="clicca per la lista completa dei siti con le tecnologie attive">Lista Siti</a></li>
+        <li  ><a  href="site.html" alt="clicca per la lista completa dei siti con le tecnologie attive">Stats</a></li>
 
     </ul>
   </div>
@@ -47,7 +51,7 @@
           <img src="demo-user.jpg" alt="" class="img-thumbnail"/>
         </div>
         <div class="col-sm-9 col-md-10">
-          <h1>Nome Sito Ricercato</h1>
+          <h1>Quanto sono belle le ciambelle....</h1>
 
         </div>
 
@@ -59,37 +63,35 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-sm-12   ">
-                <div id="imaginary_container">
-                    <table class="table">
-                        <thead>
-                          <tr>
-                            <th>Firstname</th>
-                            <th>Lastname</th>
-                            <th>Email</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                          <tr>
-                            <td>John</td>
-                            <td>Doe</td>
-                            <td>john@example.com</td>
-                          </tr>
-                          <tr>
-                            <td>Mary</td>
-                            <td>Moe</td>
-                            <td>mary@example.com</td>
-                          </tr>
-                          <tr>
-                            <td>July</td>
-                            <td>Dooley</td>
-                            <td>july@example.com</td>
-                          </tr>
-                      </tbody>
-                    </table>
-                </div>
+            <div class="col-sm-6   ">
+              <div id="imaginary_container">
+                <canvas id="myChart" width="100" height="100"></canvas>
+                <script>drawCiambella([{{httpsTrue}}, {{httpsFalse}}])</script>
+              </div>
+            </div>
+            <div class="col-sm-6   ">
+              <div id="imaginary_container">
+                <canvas id="myChart" width="100" height="100"></canvas>
+                <script>drawCiambella([{{redirectTrue}}, {{redirectFalse}}])</script>
+              </div>
             </div>
     	</div>
+      <div class="row">
+          <div class="col-sm-6   ">
+            <div id="imaginary_container">
+              <canvas id="myChart" width="100" height="100"></canvas>
+              <script>drawCiambella([{{SPFTrue}}, {{SPFFalse}}], ["A", "A-", "A-F", "M", "T"])</script>
+            </div>
+          </div>
+          <div class="col-sm-6   ">
+            <div id="imaginary_container">
+              <canvas id="myChart" width="100" height="100"></canvas>
+              <script>drawCiambella([{{MXTrue}}, {{MXFalse}}])</script>
+            </div>
+          </div>
+      </div>
+      
+  </div>
 
 
 
@@ -114,3 +116,5 @@
   <!--<script type="text/javascript" src="../../assets/js/keen-analytics.js"></script> -->
 </body>
 </html>
+
+{% endblock %}
