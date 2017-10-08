@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'mongo_model.apps.MongoModelConfig',
 ]
 
 MIDDLEWARE = [
@@ -79,14 +80,6 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
-# DATABASES = {
-#    'default' : {
-#        'ENGINE': 'django_mongodb_engine',
-#         #'NAME': 'my_database',
-#         #'HOST': 'mongodb',
-#    }
-# }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
