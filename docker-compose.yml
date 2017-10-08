@@ -12,7 +12,7 @@ services:
         volumes:
             - ./src:/src
             - ./config/nginx:/etc/nginx/conf.d
-            - ./dashboard/statics:/statics
+            - ./dashboard/static:/static
         depends_on:
             - django
         networks:
