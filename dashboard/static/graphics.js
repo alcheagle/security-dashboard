@@ -1,7 +1,7 @@
-function drawCiambella(){
+function drawCiambella(datas){
     data = {
         datasets: [{
-            data: [80, 20],
+            data : datas
 
             backgroundColor: ['rgba(42, 153, 209, 1)',
                 'rgba(193, 9, 9 ,1)',
@@ -9,10 +9,7 @@ function drawCiambella(){
         }],
 
         // These labels appear in the legend and in the tooltips when hovering different arcs
-        labels: [
-            'Http',
-            'Https',
-        ],
+        labels: name
     };
     var ctx = document.getElementById("myChart").getContext('2d');
     var myPieChart = new Chart(ctx,{
