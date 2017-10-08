@@ -1,0 +1,3 @@
+[submodule "domain-scan"]
+	path = dashboard/domain_scan
+	url = https://github.com/5haffl/domain-scan

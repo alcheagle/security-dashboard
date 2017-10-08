@@ -1,0 +1,5761 @@
+
+
+{
+  "1cdsommaves.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1cdsommaves.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1cdsommaves.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolomondovi.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2circolomondovi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": true,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": "http:\/\/www.icmondovi2.gov.it\/",
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circolosangiorgio.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/4circolosangiorgio.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolosangiorgio.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "63circolo.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.63circolo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": true,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.63circolo.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "5tempesta.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6378,
+      "domContentLoaded": 875,
+      "timeBackend": 54,
+      "requests": 115,
+      "timeToLastByte": 3420,
+      "timeFrontend": 46,
+      "httpsRequests": 20,
+      "timeToFirstByte": 3337,
+      "domComplete": 2826
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.5tempesta.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.5tempesta.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "47circolo.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/47circolo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1comprcarlentinipirandello.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 9000,
+      "domContentLoaded": 859,
+      "timeBackend": 83,
+      "requests": 86,
+      "timeToLastByte": 6900,
+      "timeFrontend": 17,
+      "httpsRequests": 0,
+      "timeToFirstByte": 6777,
+      "domComplete": 1366
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1comprcarlentinipirandello.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1comprcarlentinipirandello.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "6istitutocomprensivopadova.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 9910,
+      "domContentLoaded": 1910,
+      "timeBackend": 5,
+      "requests": 82,
+      "timeToLastByte": 704,
+      "timeFrontend": 95,
+      "httpsRequests": 1,
+      "timeToFirstByte": 518,
+      "domComplete": 9218
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/6istitutocomprensivopadova.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1circolodidatticoischia.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 5239,
+      "domContentLoaded": 3349,
+      "timeBackend": 11,
+      "requests": 69,
+      "timeToLastByte": 648,
+      "timeFrontend": 89,
+      "httpsRequests": 3,
+      "timeToFirstByte": 553,
+      "domComplete": 4606
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1circolodidatticoischia.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.1circolodidatticoischia.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:1circolodidatticoischia.gov.it ip4:149.202.218.59 ?all"
+    }
+  },
+  "17circolodidatticopoggiofrancobari.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 1763,
+      "domContentLoaded": 462,
+      "timeBackend": 20,
+      "requests": 42,
+      "timeToLastByte": 374,
+      "timeFrontend": 80,
+      "httpsRequests": 0,
+      "timeToFirstByte": 350,
+      "domComplete": 1398
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/17circolodidatticopoggiofrancobari.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "alt4.aspmx.l.google.com, aspmx.l.google.com, alt1.aspmx.l.google.com, alt2.aspmx.l.google.com, alt3.aspmx.l.google.com",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circolodonuva.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3209,
+      "domContentLoaded": 981,
+      "timeBackend": 53,
+      "requests": 50,
+      "timeToLastByte": 1800,
+      "timeFrontend": 47,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1624,
+      "domComplete": 1415
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4circolodonuva.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolodonuva.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1icudine.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2872,
+      "domContentLoaded": 1572,
+      "timeBackend": 13,
+      "requests": 81,
+      "timeToLastByte": 489,
+      "timeFrontend": 87,
+      "httpsRequests": 1,
+      "timeToFirstByte": 349,
+      "domComplete": 2396
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1icudine.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3circolodidatticocaivano.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3circolodidatticocaivano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.3circolodidatticocaivano.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circoloforgione.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 9243,
+      "domContentLoaded": 1081,
+      "timeBackend": 6,
+      "requests": 66,
+      "timeToLastByte": 1269,
+      "timeFrontend": 94,
+      "httpsRequests": 2,
+      "timeToFirstByte": 546,
+      "domComplete": 7984
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2circoloforgione.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail903.ixwebhosting.com",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "21mamelizuppetta.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6923,
+      "domContentLoaded": 814,
+      "timeBackend": 9,
+      "requests": 82,
+      "timeToLastByte": 613,
+      "timeFrontend": 91,
+      "httpsRequests": 0,
+      "timeToFirstByte": 581,
+      "domComplete": 5911
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/21mamelizuppetta.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "41console.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2235,
+      "domContentLoaded": 935,
+      "timeBackend": 12,
+      "requests": 69,
+      "timeToLastByte": 312,
+      "timeFrontend": 88,
+      "httpsRequests": 0,
+      "timeToFirstByte": 246,
+      "domComplete": 1834
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.41console.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.41console.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4icdamicorosolini.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 973,
+      "domContentLoaded": 290,
+      "timeBackend": 50,
+      "requests": 16,
+      "timeToLastByte": 518,
+      "timeFrontend": 50,
+      "httpsRequests": 0,
+      "timeToFirstByte": 490,
+      "domComplete": 486
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4icdamicorosolini.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4icdamicorosolini.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2ledeamicis.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2492,
+      "domContentLoaded": 1970,
+      "timeBackend": 28,
+      "requests": 75,
+      "timeToLastByte": 835,
+      "timeFrontend": 72,
+      "httpsRequests": 1,
+      "timeToFirstByte": 660,
+      "domComplete": 1666
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2ledeamicis.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1icpriologargallo.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6865,
+      "domContentLoaded": 5166,
+      "timeBackend": 51,
+      "requests": 50,
+      "timeToLastByte": 2707,
+      "timeFrontend": 49,
+      "httpsRequests": 0,
+      "timeToFirstByte": 2057,
+      "domComplete": 1964
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1icpriologargallo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circolotrani.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3877,
+      "domContentLoaded": 1419,
+      "timeBackend": 42,
+      "requests": 72,
+      "timeToLastByte": 1692,
+      "timeFrontend": 58,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1569,
+      "domComplete": 2189
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4circolotrani.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolotrani.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "6icmartogliosr.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/6icmartogliosr.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1cdsomma.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6555,
+      "domContentLoaded": 3827,
+      "timeBackend": 9,
+      "requests": 70,
+      "timeToLastByte": 666,
+      "timeFrontend": 91,
+      "httpsRequests": 10,
+      "timeToFirstByte": 606,
+      "domComplete": 5910
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1cdsomma.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.1cdsomma.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:1cdsomma.gov.it ip4:149.202.218.59 ?all"
+    }
+  },
+  "2circolosolofra.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolosolofra.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": true,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "relay.2circolosolofra.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx ip4:62.149.199.0\/24 ip4:62.149.215.0\/24 ~all"
+    }
+  },
+  "3icudine.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2419,
+      "domContentLoaded": 1910,
+      "timeBackend": 18,
+      "requests": 78,
+      "timeToLastByte": 571,
+      "timeFrontend": 82,
+      "httpsRequests": 2,
+      "timeToFirstByte": 418,
+      "domComplete": 1861
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3icudine.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3icrodari.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2120,
+      "domContentLoaded": 1914,
+      "timeBackend": 37,
+      "requests": 44,
+      "timeToLastByte": 901,
+      "timeFrontend": 63,
+      "httpsRequests": 2,
+      "timeToFirstByte": 726,
+      "domComplete": 1245
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.3icrodari.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx00.colt-engine.it, mx02.colt-engine.it, mx01.colt-engine.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 mx a ?include:colt-engine.it ~all"
+    }
+  },
+  "3circolodidatticoaversa.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 7010,
+      "domContentLoaded": 1757,
+      "timeBackend": 19,
+      "requests": 65,
+      "timeToLastByte": 1204,
+      "timeFrontend": 81,
+      "httpsRequests": 4,
+      "timeToFirstByte": 1164,
+      "domComplete": 5005
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.3circolodidatticoaversa.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.3circolodidatticoaversa.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2comprensivorossano.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4878,
+      "domContentLoaded": 727,
+      "timeBackend": 37,
+      "requests": 85,
+      "timeToLastByte": 1834,
+      "timeFrontend": 63,
+      "httpsRequests": 4,
+      "timeToFirstByte": 1719,
+      "domComplete": 2898
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2comprensivorossano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2comprensivorossano.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "69circolodidatticonapoli.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2556,
+      "domContentLoaded": 893,
+      "timeBackend": 23,
+      "requests": 63,
+      "timeToLastByte": 536,
+      "timeFrontend": 77,
+      "httpsRequests": 0,
+      "timeToFirstByte": 488,
+      "domComplete": 1678
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/69circolodidatticonapoli.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "5icudine.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2791,
+      "domContentLoaded": 2238,
+      "timeBackend": 20,
+      "requests": 101,
+      "timeToLastByte": 762,
+      "timeFrontend": 80,
+      "httpsRequests": 1,
+      "timeToFirstByte": 519,
+      "domComplete": 2045
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/5icudine.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "aspmx.l.google.com, alt3.aspmx.l.google.com, alt4.aspmx.l.google.com, alt1.aspmx.l.google.com, alt2.aspmx.l.google.com",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1circoloscafati.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3013,
+      "domContentLoaded": 1230,
+      "timeBackend": 30,
+      "requests": 45,
+      "timeToLastByte": 793,
+      "timeFrontend": 70,
+      "httpsRequests": 4,
+      "timeToFirstByte": 693,
+      "domComplete": 1586
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1circoloscafati.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.1circoloscafati.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:1circoloscafati.gov.it ip4:151.80.23.52 ?all"
+    }
+  },
+  "1circolociampino.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 7042,
+      "domContentLoaded": 403,
+      "timeBackend": 3,
+      "requests": 82,
+      "timeToLastByte": 280,
+      "timeFrontend": 97,
+      "httpsRequests": 5,
+      "timeToFirstByte": 197,
+      "domComplete": 6392
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1circolociampino.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1circolociampino.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolofasano.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 5733,
+      "domContentLoaded": 961,
+      "timeBackend": 36,
+      "requests": 47,
+      "timeToLastByte": 2162,
+      "timeFrontend": 64,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1995,
+      "domComplete": 3578
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2circolofasano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "ASPMX.L.GOOGLE.COM, ALT1.ASPMX.L.GOOGLE.COM, ALT2.ASPMX.L.GOOGLE.COM, ALT3.ASPMX.L.GOOGLE.COM, ALT4.ASPMX.L.GOOGLE.COM",
+      "Syntax Errors": "SPF Permanent Error: Too many DNS lookups",
+      "SPF Results": "v=spf1 a mx include:websitewelcome.com ~all"
+    }
+  },
+  "1circolomariorapisardi.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6842,
+      "domContentLoaded": 1681,
+      "timeBackend": 7,
+      "requests": 53,
+      "timeToLastByte": 476,
+      "timeFrontend": 93,
+      "httpsRequests": 10,
+      "timeToFirstByte": 395,
+      "domComplete": 5091
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1circolomariorapisardi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.1circolomariorapisardi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:1circolomariorapisardi.gov.it ip4:37.187.143.38 ?all"
+    }
+  },
+  "10icpadova.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4001,
+      "domContentLoaded": 491,
+      "timeBackend": 78,
+      "requests": 41,
+      "timeToLastByte": 2950,
+      "timeFrontend": 22,
+      "httpsRequests": 0,
+      "timeToFirstByte": 2854,
+      "domComplete": 816
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "alt4.aspmx.l.google.com, alt2.aspmx.l.google.com, alt1.aspmx.l.google.com, aspmx.l.google.com, alt3.aspmx.l.google.com",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1circolocarminenicosia.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 5156,
+      "domContentLoaded": 2043,
+      "timeBackend": 37,
+      "requests": 66,
+      "timeToLastByte": 2110,
+      "timeFrontend": 63,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1766,
+      "domComplete": 3056
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1circolocarminenicosia.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1circolocarminenicosia.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circologrosseto.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/4circologrosseto.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolomercatosanseverino.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3371,
+      "domContentLoaded": 793,
+      "timeBackend": 37,
+      "requests": 66,
+      "timeToLastByte": 1388,
+      "timeFrontend": 63,
+      "httpsRequests": 3,
+      "timeToFirstByte": 1173,
+      "domComplete": 1989
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolomercatosanseverino.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "relay.2circolomercatosanseverino.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx ip4:62.149.199.0\/24 ip4:62.149.215.0\/24 ~all"
+    }
+  },
+  "1circologuerrazzi.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 7042,
+      "domContentLoaded": 4061,
+      "timeBackend": 35,
+      "requests": 59,
+      "timeToLastByte": 3032,
+      "timeFrontend": 65,
+      "httpsRequests": 2,
+      "timeToFirstByte": 2155,
+      "domComplete": 4027
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1circologuerrazzi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.1circologuerrazzi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 +a +mx ~all +a:ds.diemmeinformatica.org"
+    }
+  },
+  "4icvergasr.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2887,
+      "domContentLoaded": 1332,
+      "timeBackend": 16,
+      "requests": 50,
+      "timeToLastByte": 489,
+      "timeFrontend": 84,
+      "httpsRequests": 20,
+      "timeToFirstByte": 455,
+      "domComplete": 2409
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/4icvergasr.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.4icvergasr.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:4icvergasr.gov.it ip4:51.255.83.162 ?all"
+    }
+  },
+  "2circolociampino.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2486,
+      "domContentLoaded": 2202,
+      "timeBackend": 49,
+      "requests": 56,
+      "timeToLastByte": 1397,
+      "timeFrontend": 51,
+      "httpsRequests": 1,
+      "timeToFirstByte": 1096,
+      "domComplete": 1119
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolociampino.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2circolociampino.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 include:aruba.it ~all"
+    }
+  },
+  "4circololecce.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3871,
+      "domContentLoaded": 957,
+      "timeBackend": 44,
+      "requests": 50,
+      "timeToLastByte": 1796,
+      "timeFrontend": 56,
+      "httpsRequests": 2,
+      "timeToFirstByte": 1631,
+      "domComplete": 2081
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4circololecce.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circololecce.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "17circolodidattico.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6485,
+      "domContentLoaded": 1231,
+      "timeBackend": 6,
+      "requests": 75,
+      "timeToLastByte": 421,
+      "timeFrontend": 94,
+      "httpsRequests": 2,
+      "timeToFirstByte": 345,
+      "domComplete": 5922
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/17circolodidattico.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "5circolodidattico.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/5circolodidattico.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3circologiugliano.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4032,
+      "domContentLoaded": 1903,
+      "timeBackend": 17,
+      "requests": 86,
+      "timeToLastByte": 726,
+      "timeFrontend": 83,
+      "httpsRequests": 25,
+      "timeToFirstByte": 678,
+      "domComplete": 3311
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3circologiugliano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.3circologiugliano.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:3circologiugliano.gov.it ip4:51.255.93.171 ?all"
+    }
+  },
+  "3icgiarre.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2999,
+      "domContentLoaded": 654,
+      "timeBackend": 36,
+      "requests": 51,
+      "timeToLastByte": 1143,
+      "timeFrontend": 64,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1039,
+      "domComplete": 1867
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3icgiarre.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "3icgiarre.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 +a +mx +ip4:46.28.5.100 ?all"
+    }
+  },
+  "1circolomarconi.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2916,
+      "domContentLoaded": 657,
+      "timeBackend": 17,
+      "requests": 78,
+      "timeToLastByte": 608,
+      "timeFrontend": 83,
+      "httpsRequests": 10,
+      "timeToFirstByte": 405,
+      "domComplete": 2045
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1circolomarconi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1circolomarconi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3circolocarmagnola.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/3circolocarmagnola.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "16circolovillanova.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/16circolovillanova.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "25lugliobettolo.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2582,
+      "domContentLoaded": 931,
+      "timeBackend": 44,
+      "requests": 52,
+      "timeToLastByte": 1257,
+      "timeFrontend": 56,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1034,
+      "domComplete": 1322
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.25lugliobettolo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.25lugliobettolo.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2comprensivogiulianova.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 12913,
+      "domContentLoaded": 2008,
+      "timeBackend": 3,
+      "requests": 92,
+      "timeToLastByte": 633,
+      "timeFrontend": 97,
+      "httpsRequests": 1,
+      "timeToFirstByte": 428,
+      "domComplete": 12289
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2comprensivogiulianova.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "26-cd-imbriani.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/26-cd-imbriani.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.26-cd-imbriani.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4novembre.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 1700,
+      "domContentLoaded": 574,
+      "timeBackend": 30,
+      "requests": 40,
+      "timeToLastByte": 539,
+      "timeFrontend": 70,
+      "httpsRequests": 0,
+      "timeToFirstByte": 508,
+      "domComplete": 1168
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/4novembre.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.4novembre.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 +a +mx -all"
+    }
+  },
+  "24circolodidattico.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3047,
+      "domContentLoaded": 1056,
+      "timeBackend": 26,
+      "requests": 78,
+      "timeToLastByte": 724,
+      "timeFrontend": 74,
+      "httpsRequests": 2,
+      "timeToFirstByte": 689,
+      "domComplete": 1946
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/24circolodidattico.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1circolomondovi.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1circolomondovi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1circolomondovi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2superioreaugusta.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4454,
+      "domContentLoaded": 3797,
+      "timeBackend": 48,
+      "requests": 76,
+      "timeToLastByte": 2329,
+      "timeFrontend": 52,
+      "httpsRequests": 1,
+      "timeToFirstByte": 2003,
+      "domComplete": 2136
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2superioreaugusta.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2superioreaugusta.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4icudine.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2310,
+      "domContentLoaded": 1809,
+      "timeBackend": 24,
+      "requests": 83,
+      "timeToLastByte": 743,
+      "timeFrontend": 76,
+      "httpsRequests": 1,
+      "timeToFirstByte": 479,
+      "domComplete": 1546
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/4icudine.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolo-triggiano.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2circolo-triggiano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.2circolo-triggiano.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:2circolo-triggiano.gov.it ip4:51.255.93.171 ?all"
+    }
+  },
+  "26circolodidatticobari.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 1122,
+      "domContentLoaded": 261,
+      "timeBackend": 22,
+      "requests": 37,
+      "timeToLastByte": 253,
+      "timeFrontend": 78,
+      "httpsRequests": 0,
+      "timeToFirstByte": 197,
+      "domComplete": 713
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.26circolodidatticobari.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.26circolodidatticobari.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1cdbacoli.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1cdbacoli.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1cdbacoli.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3cdgiarre.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/3cdgiarre.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4comprensivomarconi.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3755,
+      "domContentLoaded": 840,
+      "timeBackend": 44,
+      "requests": 84,
+      "timeToLastByte": 1401,
+      "timeFrontend": 56,
+      "httpsRequests": 2,
+      "timeToFirstByte": 1328,
+      "domComplete": 1686
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4comprensivomarconi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4comprensivomarconi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "22ddalbertomario.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3173,
+      "domContentLoaded": 2198,
+      "timeBackend": 37,
+      "requests": 49,
+      "timeToLastByte": 1474,
+      "timeFrontend": 63,
+      "httpsRequests": 49,
+      "timeToFirstByte": 1004,
+      "domComplete": 1705
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 256,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "DST Root CA X3",
+      "All Forward Secrecy": false,
+      "Highest Constructed Issuer": "DST Root CA X3",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "22ddalbertomario.gov.it"
+    },
+    "tls": {
+      "Grade": "A",
+      "Fallback SCSV": true,
+      "Forward Secrecy": 2,
+      "Signature Algorithm": "SHA256withRSA",
+      "SPDY": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "RC4": false,
+      "Key Size": 2048,
+      "OCSP Stapling": false,
+      "HTTP\/2": false,
+      "TLSv1.2": true,
+      "Requires SNI": true
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "https:\/\/22ddalbertomario.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": true,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": true,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": true,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": true,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.22ddalbertomario.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "5.circolopozzuoli.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/5.circolopozzuoli.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": false,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": false,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": "",
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "70circolodidattico.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 287,
+      "domContentLoaded": 0,
+      "timeBackend": 100,
+      "requests": 1,
+      "timeToLastByte": 291,
+      "timeFrontend": 0,
+      "httpsRequests": 0,
+      "timeToFirstByte": 290,
+      "domComplete": 0
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/70circolodidattico.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": true,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx03.fastcomgroup.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4daurianosengo.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 13138,
+      "domContentLoaded": 2941,
+      "timeBackend": 16,
+      "requests": 68,
+      "timeToLastByte": 2302,
+      "timeFrontend": 84,
+      "httpsRequests": 20,
+      "timeToFirstByte": 2124,
+      "domComplete": 10844
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4daurianosengo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4daurianosengo.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3circolodecurtis.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/3circolodecurtis.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3cdmolfetta.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/3cdmolfetta.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "17circolo.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2560,
+      "domContentLoaded": 620,
+      "timeBackend": 41,
+      "requests": 53,
+      "timeToLastByte": 1092,
+      "timeFrontend": 59,
+      "httpsRequests": 0,
+      "timeToFirstByte": 1020,
+      "domComplete": 1474
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.17circolo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.17circolo.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "15icpaolorsi.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3549,
+      "domContentLoaded": 884,
+      "timeBackend": 62,
+      "requests": 72,
+      "timeToLastByte": 2239,
+      "timeFrontend": 38,
+      "httpsRequests": 2,
+      "timeToFirstByte": 2153,
+      "domComplete": 1323
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.15icpaolorsi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.15icpaolorsi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1circolovillabate.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 10944,
+      "domContentLoaded": 0,
+      "timeBackend": 100,
+      "requests": 81,
+      "timeToLastByte": 7249,
+      "timeFrontend": 0,
+      "httpsRequests": 11,
+      "timeToFirstByte": 7248,
+      "domComplete": 0
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.1circolovillabate.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.1circolovillabate.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "31icborsellino.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3906,
+      "domContentLoaded": 814,
+      "timeBackend": 12,
+      "requests": 81,
+      "timeToLastByte": 511,
+      "timeFrontend": 88,
+      "httpsRequests": 2,
+      "timeToFirstByte": 428,
+      "domComplete": 3167
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 384,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "DST Root CA X3",
+      "All Forward Secrecy": false,
+      "Highest Constructed Issuer": "DST Root CA X3",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "31icborsellino.gov.it"
+    },
+    "tls": {
+      "Grade": "A",
+      "Fallback SCSV": true,
+      "Forward Secrecy": 4,
+      "Signature Algorithm": "SHA256withRSA",
+      "SPDY": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "RC4": false,
+      "Key Size": 2048,
+      "OCSP Stapling": false,
+      "HTTP\/2": false,
+      "TLSv1.2": true,
+      "Requires SNI": true
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/31icborsellino.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": true,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2icudine.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 1956,
+      "domContentLoaded": 1302,
+      "timeBackend": 23,
+      "requests": 85,
+      "timeToLastByte": 544,
+      "timeFrontend": 77,
+      "httpsRequests": 1,
+      "timeToFirstByte": 383,
+      "domComplete": 1298
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2icudine.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolomoromodugno.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2335,
+      "domContentLoaded": 604,
+      "timeBackend": 40,
+      "requests": 52,
+      "timeToLastByte": 991,
+      "timeFrontend": 60,
+      "httpsRequests": 0,
+      "timeToFirstByte": 907,
+      "domComplete": 1350
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 256,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "Actalis Authentication Root CA",
+      "All Forward Secrecy": true,
+      "Highest Constructed Issuer": "Actalis Authentication Root CA",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "www.2circolomoromodugno.gov.it"
+    },
+    "tls": {
+      "Grade": "A",
+      "Fallback SCSV": true,
+      "Forward Secrecy": 4,
+      "Signature Algorithm": "SHA256withRSA",
+      "SPDY": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "RC4": false,
+      "Key Size": 2048,
+      "OCSP Stapling": false,
+      "HTTP\/2": false,
+      "TLSv1.2": true,
+      "Requires SNI": true
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolomoromodugno.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": true,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2circolomoromodugno.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolosangiorgio.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2circolosangiorgio.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2circolosangiorgio.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolopatern.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6324,
+      "domContentLoaded": 1859,
+      "timeBackend": 29,
+      "requests": 90,
+      "timeToLastByte": 1883,
+      "timeFrontend": 71,
+      "httpsRequests": 11,
+      "timeToFirstByte": 1802,
+      "domComplete": 4451
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/2circolopatern.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.2circolopatern.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:2circolopatern.gov.it ip4:149.202.218.59 ?all"
+    }
+  },
+  "2circolodidatticocastelvetrano.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2881,
+      "domContentLoaded": 1201,
+      "timeBackend": 13,
+      "requests": 80,
+      "timeToLastByte": 454,
+      "timeFrontend": 87,
+      "httpsRequests": 21,
+      "timeToFirstByte": 216,
+      "domComplete": 1407
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolodidatticocastelvetrano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2circolodidatticocastelvetrano.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "33circolonapoli.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 5224,
+      "domContentLoaded": 1058,
+      "timeBackend": 10,
+      "requests": 87,
+      "timeToLastByte": 627,
+      "timeFrontend": 90,
+      "httpsRequests": 0,
+      "timeToFirstByte": 526,
+      "domComplete": 4488
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 384,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "DST Root CA X3",
+      "All Forward Secrecy": false,
+      "Highest Constructed Issuer": "DST Root CA X3",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "33circolonapoli.gov.it"
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/33circolonapoli.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": true,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "redirect.ovh.net",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "5circololatina.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 3354,
+      "domContentLoaded": 1832,
+      "timeBackend": 19,
+      "requests": 71,
+      "timeToLastByte": 725,
+      "timeFrontend": 81,
+      "httpsRequests": 2,
+      "timeToFirstByte": 610,
+      "domComplete": 2637
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.5circololatina.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circolocasoria.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/4circolocasoria.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolocasoria.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4icpadova.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4221,
+      "domContentLoaded": 1564,
+      "timeBackend": 51,
+      "requests": 55,
+      "timeToLastByte": 2177,
+      "timeFrontend": 49,
+      "httpsRequests": 55,
+      "timeToFirstByte": 2148,
+      "domComplete": 2049
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 256,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "Actalis Authentication Root CA",
+      "All Forward Secrecy": false,
+      "Highest Constructed Issuer": "Actalis Authentication Root CA",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "www.4icpadova.gov.it"
+    },
+    "tls": {
+      "Grade": "A",
+      "Fallback SCSV": true,
+      "Forward Secrecy": 2,
+      "Signature Algorithm": "SHA256withRSA",
+      "SPDY": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "RC4": false,
+      "Key Size": 2048,
+      "OCSP Stapling": false,
+      "HTTP\/2": false,
+      "TLSv1.2": true,
+      "Requires SNI": true
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "https:\/\/www.4icpadova.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": true,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": true,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": true,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4icpadova.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "112.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "1cdvalenzano.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 5297,
+      "domContentLoaded": 1542,
+      "timeBackend": 10,
+      "requests": 39,
+      "timeToLastByte": 613,
+      "timeFrontend": 90,
+      "httpsRequests": 2,
+      "timeToFirstByte": 520,
+      "domComplete": 4698
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/1cdvalenzano.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolospoleto.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 256,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "Actalis Authentication Root CA",
+      "All Forward Secrecy": true,
+      "Highest Constructed Issuer": "Actalis Authentication Root CA",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "www.2circolospoleto.gov.it"
+    },
+    "tls": {
+      "Grade": "A",
+      "Fallback SCSV": true,
+      "Forward Secrecy": 4,
+      "Signature Algorithm": "SHA256withRSA",
+      "SPDY": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "RC4": false,
+      "Key Size": 2048,
+      "OCSP Stapling": false,
+      "HTTP\/2": false,
+      "TLSv1.2": true,
+      "Requires SNI": true
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolospoleto.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": true
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2circolospoleto.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "62icsvittorinodafeltre.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/62icsvittorinodafeltre.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4istitutocosta.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2935,
+      "domContentLoaded": 774,
+      "timeBackend": 36,
+      "requests": 46,
+      "timeToLastByte": 1076,
+      "timeFrontend": 64,
+      "httpsRequests": 3,
+      "timeToFirstByte": 1035,
+      "domComplete": 1873
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4istitutocosta.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4istitutocosta.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circolo.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 5298,
+      "domContentLoaded": 4694,
+      "timeBackend": 63,
+      "requests": 69,
+      "timeToLastByte": 3436,
+      "timeFrontend": 37,
+      "httpsRequests": 3,
+      "timeToFirstByte": 3141,
+      "domComplete": 1884
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4circolo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolo.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolovoghera.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/2circolovoghera.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolo.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": false,
+      "Canonical URL": "http:\/\/2circolo.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "6icudine.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2404,
+      "domContentLoaded": 1690,
+      "timeBackend": 26,
+      "requests": 85,
+      "timeToLastByte": 746,
+      "timeFrontend": 74,
+      "httpsRequests": 1,
+      "timeToFirstByte": 530,
+      "domComplete": 1534
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/6icudine.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2icceglie.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 6153,
+      "domContentLoaded": 1223,
+      "timeBackend": 54,
+      "requests": 71,
+      "timeToLastByte": 3260,
+      "timeFrontend": 46,
+      "httpsRequests": 71,
+      "timeToFirstByte": 3217,
+      "domComplete": 2764
+    },
+    "sslyze": {
+      "Any Forward Secrecy": true,
+      "Weakest DH Group Size": 256,
+      "Errors": null,
+      "SSLv2": false,
+      "TLSv1.1": true,
+      "SHA-1 in Constructed Chain": false,
+      "SHA-1 in Served Chain": false,
+      "All RC4": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "TLSv1.0": true,
+      "Key Length": 2048,
+      "Any RC4": false,
+      "Highest Served Issuer": "Actalis Authentication Root CA",
+      "All Forward Secrecy": false,
+      "Highest Constructed Issuer": "Actalis Authentication Root CA",
+      "Signature Algorithm": "sha256",
+      "TLSv1.2": true,
+      "Scanned Hostname": "www.2icceglie.gov.it"
+    },
+    "tls": {
+      "Grade": "A",
+      "Fallback SCSV": true,
+      "Forward Secrecy": 2,
+      "Signature Algorithm": "SHA256withRSA",
+      "SPDY": false,
+      "Key Type": "RSA",
+      "SSLv3": false,
+      "RC4": false,
+      "Key Size": 2048,
+      "OCSP Stapling": false,
+      "HTTP\/2": false,
+      "TLSv1.2": true,
+      "Requires SNI": true
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "https:\/\/www.2icceglie.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": true,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": true,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": true,
+      "Valid HTTPS": true,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2icceglie.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 include:aruba.it ~all"
+    }
+  },
+  "2cdrodaricasamassima.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 1792,
+      "domContentLoaded": 552,
+      "timeBackend": 15,
+      "requests": 55,
+      "timeToLastByte": 419,
+      "timeFrontend": 85,
+      "httpsRequests": 5,
+      "timeToFirstByte": 268,
+      "domComplete": 1470
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2cdrodaricasamassima.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.2cdrodaricasamassima.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "55piscicelli.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2763,
+      "domContentLoaded": 666,
+      "timeBackend": 29,
+      "requests": 53,
+      "timeToLastByte": 802,
+      "timeFrontend": 71,
+      "httpsRequests": 0,
+      "timeToFirstByte": 761,
+      "domComplete": 1851
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/55piscicelli.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.55piscicelli.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 ip4:151.1.159.123 a mx ~all"
+    }
+  },
+  "3circolovt.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3circolovt.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.3circolovt.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "4circolopc.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4658,
+      "domContentLoaded": 888,
+      "timeBackend": 44,
+      "requests": 96,
+      "timeToLastByte": 2085,
+      "timeFrontend": 56,
+      "httpsRequests": 10,
+      "timeToFirstByte": 1958,
+      "domComplete": 2480
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.4circolopc.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolopc.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "2circolopiombino.it.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2621,
+      "domContentLoaded": 0,
+      "timeBackend": 100,
+      "requests": 46,
+      "timeToLastByte": 175,
+      "timeFrontend": 0,
+      "httpsRequests": 37,
+      "timeToFirstByte": 174,
+      "domComplete": 0
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/www.2circolopiombino.it.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": false,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": false,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": "",
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": false,
+      "Mail Servers": "",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3icsr.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 4010,
+      "domContentLoaded": 1914,
+      "timeBackend": 28,
+      "requests": 68,
+      "timeToLastByte": 993,
+      "timeFrontend": 72,
+      "httpsRequests": 9,
+      "timeToFirstByte": 943,
+      "domComplete": 2394
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3icsr.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.3icsr.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:3icsr.gov.it ip4:51.255.93.171 ?all"
+    }
+  },
+  "4circolopestalozzi.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/4circolopestalozzi.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.4circolopestalozzi.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  },
+  "3iccapuana.gov.it": {
+    "pageload": {
+      "httpTrafficCompleted": 2448,
+      "domContentLoaded": 925,
+      "timeBackend": 19,
+      "requests": 62,
+      "timeToLastByte": 505,
+      "timeFrontend": 81,
+      "httpsRequests": 8,
+      "timeToFirstByte": 454,
+      "domComplete": 1957
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/3iccapuana.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": true,
+      "HTTPS Bad Hostname": true,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": true,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": true,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mail.3iccapuana.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": "v=spf1 a mx a:3iccapuana.gov.it ip4:37.187.143.38 ?all"
+    }
+  },
+  "12circolobari.gov.it": {
+    "pageload": {
+
+    },
+    "sslyze": {
+
+    },
+    "tls": {
+
+    },
+    "pshtt": {
+      "HSTS Header": null,
+      "HSTS Preloaded": false,
+      "Live": true,
+      "Canonical URL": "http:\/\/12circolobari.gov.it",
+      "HSTS Max Age": null,
+      "HSTS Preload Pending": false,
+      "Strictly Forces HTTPS": false,
+      "HTTPS Expired Cert": false,
+      "Domain Enforces HTTPS": false,
+      "HSTS Entire Domain": false,
+      "HSTS Preload Ready": false,
+      "HTTPS Bad Chain": false,
+      "HTTPS Bad Hostname": false,
+      "Redirect": false,
+      "Domain Uses Strong HSTS": false,
+      "Domain Supports HTTPS": false,
+      "Base Domain HSTS Preloaded": false,
+      "Defaults to HTTPS": false,
+      "Valid HTTPS": false,
+      "Redirect To": null,
+      "HSTS": false,
+      "Downgrades HTTPS": false
+    },
+    "trustymail": {
+      "Valid DMARC Record on Base Domain": null,
+      "DMARC Record": false,
+      "Valid DMARC": false,
+      "SPF Record": false,
+      "Live": true,
+      "DMARC Record on Base Domain": null,
+      "DMARC Results": "",
+      "DMARC Results on Base Domain": null,
+      "Valid SPF": false,
+      "DMARC Policy": "",
+      "MX Record": true,
+      "Mail Servers": "mx.12circolobari.gov.it",
+      "Syntax Errors": "",
+      "SPF Results": ""
+    }
+  }
+}
