@@ -19,6 +19,15 @@ class Database:
         else:
             raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
+    def getDomainsAndTools():
+        domains = Domain.objects
+
+        result = {}
+        for domain in domains:
+            result[domain.url] = [tool.name for tool in Tools.objects(id__nin=domain.disabledTools)]
+
+        return result
+
     def saveScan(self, scan):
         for domain, measures in scan.items():
             self.addMeasuresToDomain(domain, measures)
