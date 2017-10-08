@@ -14,9 +14,7 @@ class Database:
         domain = Domain.objects(url=domain)
         if domain:
             domain = domain[0]
-
-            #TODO find the measures with the highest date
-            return Measure.objects(domain.measures).order_by('-date')[0]
+            return Measure.objects(id__in=[x.id for x in domain.measures]).order_by('-date')[0]
         else:
             raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
@@ -25,7 +23,7 @@ class Database:
 
         result = {}
         for domain in domains:
-            result[domain.url] = [tool.name for tool in Tools.objects(domain.disabledTools)]
+            result[domain.url] = [tool.name for tool in Tools.objects(id__nin=domain.disabledTools)]
 
         return result
 
