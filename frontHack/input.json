@@ -1,5 +1,3 @@
-
-
 {
   "2circolomondovi.gov.it": {
     "trustymail": {
@@ -18,15 +16,6 @@
       "DMARC Policy": "",
       "DMARC Results on Base Domain": null
     },
-    "pageload": [
-
-    ],
-    "tls": [
-
-    ],
-    "sslyze": [
-
-    ],
     "pshtt": {
       "HSTS Max Age": null,
       "Defaults to HTTPS": false,
@@ -80,12 +69,6 @@
       "timeBackend": 36,
       "domComplete": 3578
     },
-    "tls": [
-
-    ],
-    "sslyze": [
-
-    ],
     "pshtt": {
       "HSTS Max Age": null,
       "Defaults to HTTPS": false,
@@ -139,12 +122,6 @@
       "timeBackend": 23,
       "domComplete": 1298
     },
-    "tls": [
-
-    ],
-    "sslyze": [
-
-    ],
     "pshtt": {
       "HSTS Max Age": null,
       "Defaults to HTTPS": false,
@@ -198,12 +175,6 @@
       "timeBackend": 37,
       "domComplete": 2898
     },
-    "tls": [
-
-    ],
-    "sslyze": [
-
-    ],
     "pshtt": {
       "HSTS Max Age": null,
       "Defaults to HTTPS": false,
