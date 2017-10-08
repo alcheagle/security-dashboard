@@ -18,6 +18,9 @@ class Database:
         else:
             raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
+    def getAllLatestToolProperty(tool, prop):
+        return {domain:getLastDomainScan(domain)[tool][prop] for domain in Domain.objects}
+
     def getDomainsAndTools():
         domains = Domain.objects
 
