@@ -1,7 +1,6 @@
 from mongoengine import *
 from .model import *
 
-
 MONGO_URL = 'mongodb'
 MONGO_DATABASE = 'measures'
 
@@ -58,11 +57,12 @@ class Database:
         domain = Domain.objects(url=domain_url)
         if domain:
             domain = domain[0]
-            measures = Measure(date=datetime.datetime.now(), scrapes=escape_scrapes(measures))
-            measures.save()
-            return domain.update(add_to_set__measures=measures.id)
         else:
-            raise RuntimeError('domain={} doesn\'t exist'.format(domain_url))
+            domain = self.createDomains([domain_url])[0]
+
+        measures = Measure(date=datetime.datetime.now(), scrapes=escape_scrapes(measures))
+        measures.save()
+        return domain.update(add_to_set__measures=measures.id)
 
     def addDisabledTools(self, domain, tools):
         domain = Domain.objects(url=domain)
