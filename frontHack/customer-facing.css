@@ -1,35 +1,38 @@
 * {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+}
 
 .banner {
   background: #2a99d1;
   color: #fff;
   padding: 20px 0 0;
 }
+
 .banner .container {
   height: 120px;
 }
+
 .banner h1 {
   margin: 35px 0 5px;
 }
+
 .banner p.lead {
   font-size: 16px;
   margin-bottom: 0px;
 }
 
-
-
 .dropdown:hover .dropdown-toggle {
-    background-color: #2a99d1;
+  background-color: #2a99d1;
 }
 
 .dropdown-toggle:active, .open .dropdown-toggle {
-        background:#2a99d1 !important;
-        color:white  !important;
-    }
+  background: #2a99d1 !important;
+  color: white !important;
+}
 
 .content {
   clear: both;
@@ -41,63 +44,75 @@ img {
 }
 
 .sidebar-container {
-  border-radius: 30px; }
-  .sidebar-container .sidebar-navs {
-    margin-top: 20px; }
+  border-radius: 30px;
+}
+
+.sidebar-container .sidebar-navs {
+  margin-top: 20px;
+}
+
 .sidebar-container .img-thumbnail {
   width: 100%;
   height: 100%;
-  margin-left: -10px; }
+  margin-left: -10px;
+}
 
 .main-container .content-wrapper {
   padding: 1px 20px 18px 20px;
   border-bottom: 1px solid #2a99d1;
-  margin-top: 25px; }
-  .main-container .content-wrapper .main-content {
-    margin-top: 10px; }
+  margin-top: 25px;
+}
 
+.main-container .content-wrapper .main-content {
+  margin-top: 10px;
+}
 
 .knob-title {
   text-align: center;
 }
 
-
-
 .navbar-collapse {
   background: #2a99d1;
   padding-left: 40px;
-  padding-right: 50px; }
+  padding-right: 50px;
+}
 
-.navbar-nav > li > a,
-.navbar a.navbar-brand {
+.navbar-nav>li>a, .navbar a.navbar-brand {
   color: #fbfbfb;
-  background-color: #2a99d1 !important;;
-  background:#2a99d1
- }
+  background-color: #2a99d1 !important;
+  ;
+  background: #2a99d1
+}
 
+.tabs-left>.nav-pills>li>a {}
 
-
-.tabs-left > .nav-pills > li > a {}
-
-.tabs-left > .nav-pills .active > a,
-.tabs-left > .nav-pills .active > a:hover,
-.tabs-left > .nav-pills .active > a:focus {
+.tabs-left>.nav-pills .active>a, .tabs-left>.nav-pills .active>a:hover, .tabs-left>.nav-pills .active>a:focus {
   background-color: #2a99d1;
-  border-color: #2a99d1; }
+  border-color: #2a99d1;
+}
 
+#imaginary_container {
+  margin-top: 7%;
+  /* Don't copy this */
+}
 
-  #imaginary_container{
-      margin-top:7%; /* Don't copy this */
-  }
-  .stylish-input-group .input-group-addon{
-      background: white !important;
-  }
-  .stylish-input-group .form-control{
-  	border-right:0;
-  	box-shadow:0 0 0;
-  	border-color:#ccc;
-  }
-  .stylish-input-group button{
-      border:0;
-      background:transparent;
-  }
+.stylish-input-group .input-group-addon {
+  background: white !important;
+}
+
+.stylish-input-group .form-control {
+  border-right: 0;
+  box-shadow: 0 0 0;
+  border-color: #ccc;
+}
+
+.stylish-input-group button {
+  border: 0;
+  background: transparent;
+}
+
+.center-content {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
