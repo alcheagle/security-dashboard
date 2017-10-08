@@ -9,13 +9,14 @@ class Database:
 
     def __init__(self, database, url):
         self.client = connect(database, host=url)
+
     def getLastDomainScan(self, domain):
         domain = Domain.objects(url=domain)
         if domain:
             domain = domain[0]
 
             #TODO find the measures with the highest date
-            # domain.measures.
+            return Measure.objects(domain.measures).order_by('-date')[0]
         else:
             raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
@@ -24,7 +25,7 @@ class Database:
 
         result = {}
         for domain in domains:
-            result[domain.url] = [tool.name for tool in Tools.objects(id__nin=domain.disabledTools)]
+            result[domain.url] = [tool.name for tool in Tools.objects(domain.disabledTools)]
 
         return result
 
@@ -51,16 +52,16 @@ class Database:
 
         return mongo_domains
 
-    def addMeasuresToDomain(self, domain, measures):
+    def addMeasuresToDomain(self, domain_url, measures):
         import datetime
-        domain = Domain.objects(url=domain)
+        domain = Domain.objects(url=domain_url)
         if domain:
             domain = domain[0]
-            measures = Measure(date=datetime.datetime.now(), measures=measures)
+            measures = Measure(date=datetime.datetime.now(), scrapes=escape_scrapes(measures))
             measures.save()
             return domain.update(add_to_set__measures=measures.id)
         else:
-            raise RuntimeError('domain={} doesn\'t exist'.format(domain))
+            raise RuntimeError('domain={} doesn\'t exist'.format(domain_url))
 
     def addDisabledTools(self, domain, tools):
         domain = Domain.objects(url=domain)
@@ -75,3 +76,18 @@ class Database:
             raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
 database = Database(MONGO_DATABASE, MONGO_URL)
+
+from pprint import pprint as pp
+
+def escape_scrapes(scrapes):
+
+    def change_key(d, old, new):
+        d[new] = d[old]
+        del d[old]
+
+    for domain, measures in scrapes.items():
+        for measure_name in measures.keys():
+            new_name = measure_name.replace('.', '_').replace('$', '_')
+            if measure_name != new_name:
+                change_key(measures, measure_name, new_name)
+    return scrapes
