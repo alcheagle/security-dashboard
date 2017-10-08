@@ -1,11 +1,13 @@
 function drawCiambella(datas){
+    console.log("Ciao");
+    console.log(datas);
     data = {
         datasets: [{
-            data : datas
+            data : datas,
 
             backgroundColor: ['rgba(42, 153, 209, 1)',
                 'rgba(193, 9, 9 ,1)',
-              ]
+            ]
         }],
 
         // These labels appear in the legend and in the tooltips when hovering different arcs
