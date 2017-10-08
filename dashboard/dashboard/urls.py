@@ -21,7 +21,7 @@ from django.template import loader
 from django.shortcuts import render
 
 def renderSitewithParam(request):
-    template=loader.get_loader("allDomains.html")
+    template=loader.get_template("allDomains.html")
 
     lstHttps=database.getAllLatestToolProperty("PSHHT","Valid HTTPS")
     httpsTrue = 0
