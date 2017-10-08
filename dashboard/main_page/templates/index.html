@@ -76,7 +76,7 @@
           <div id="imaginary_container">
             <div class="input-group stylish-input-group">
 
-              <input id="inputDomain" type="text" class="form-control" placeholder="Sito di cui vuoi controllare la sicurezza">
+              <input id="inputDomain" type="text" class="form-control" onkeypress="checkEnter(event)" placeholder="Sito di cui vuoi controllare la sicurezza">
               <span class="input-group-addon">
                             <button type="submit" id="requestJson">
                                 <span class="glyphicon glyphicon-search"></span>
@@ -114,27 +114,36 @@
 
 
   <script type="text/javascript">
+
+  function checkEnter(e) {
+      if (e.keyCode == 13) {
+         onSearch(e);
+      }
+  }
+
+  function onSearch (e) {
+    $('#didyouknow').css('opacity', '0');
+    // Prevent form from reloading page
+    e.preventDefault();
+    var domain_url = encodeURIComponent($('#inputDomain').val());
+    console.log(domain_url);
+    $.ajax({
+      'url': 'scan',
+      'data':{site : domain_url},
+      'type': 'GET',
+      'dataType': "json",
+      error: function() {
+        alert('Error sending ajax request');
+      },
+      'success': function(data) {
+        drawTable(data);
+      }
+    });
+}
     // On document.ready
     $(function() {
       // Submit ajax request on click
-      $('#requestJson').click(function(e) {
-        $('#didyouknow').css('opacity', '0');
-        // Prevent form from reloading page
-        e.preventDefault();
-        var domain_url = encodeURIComponent($('#inputDomain').val())
-        $.ajax({
-          'url': 'GIL.CLUSTER.IO:8080/scan/' + domain_url,
-          'type': 'GET',
-          'dataType': "json",
-          error: function() {
-            drawTable(data);
-            //alert('Error sending ajax request');
-          },
-          'success': function(data) {
-            drawTable(data);
-          }
-        });
-      });
+      $('#requestJson').click(onSearch);
     });
 
     // Draw table containing JSON data

@@ -17,12 +17,16 @@ def query_mongo_per_coglioni (domain): #Mokc-up of a query
         return json.load(json_data)
 
 
-def get_url (request): #Query the database for a certain 
+def get_url (request): #Query the database for a certain
+    print ("COGLIONE")
     if request.method == 'GET':
         url=request.GET['site']
         urls=url.split(',')
         print(urls)
         PYTHON_DICTIONARY=query_mongo_per_coglioni(None)
-        return JsonResponse(PYTHON_DICTIONARY)
+        if not PYTHON_DICTIONARY:
+            return JsonResponse(PYTHON_DICTIONARY)
+        else:
+            return HttpResponse("No data found for urls")
     else:
         return HttpResponse("Bad transition method")
