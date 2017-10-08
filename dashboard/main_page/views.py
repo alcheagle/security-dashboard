@@ -8,16 +8,16 @@ from django.template import loader
 from scanner import models
 import os, json, string
 
-def show_start_page (request):
+def show_start_page (request): #Render home page
     return (HttpResponse((loader.get_template("index.html")).render(None, request)))
 
-def query_mongo_per_coglioni (domain):
+def query_mongo_per_coglioni (domain): #Mokc-up of a query
     CD=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     with open(os.path.join(CD, "input.json")) as json_data:
         return json.load(json_data)
 
 
-def get_url (request):
+def get_url (request): #Query the database for a certain 
     if request.method == 'GET':
         url=request.GET['site']
         urls=url.split(',')
