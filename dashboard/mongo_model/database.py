@@ -4,79 +4,79 @@ from .model import *
 MONGO_URL = 'mongodb'
 MONGO_DATABASE = 'measures'
 
-class Database:
+# class Database:
+#
+#     def __init__(self, database, url):
+#         self.client = connect(database, host=url)
 
-    def __init__(self, database, url):
-        self.client = connect(database, host=url)
+def getLastDomainScan(self, domain):
+    domain = Domain.objects(url=domain)
+    if domain:
+        domain = domain[0]
+        return Measure.objects(id__in=[x.id for x in domain.measures]).order_by('-date')[0]
+    else:
+        raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
-    def getLastDomainScan(self, domain):
-        domain = Domain.objects(url=domain)
-        if domain:
-            domain = domain[0]
-            return Measure.objects(id__in=[x.id for x in domain.measures]).order_by('-date')[0]
-        else:
-            raise RuntimeError('domain={} doesn\'t exist'.format(domain))
+def getAllLatestToolProperty(tool, prop):
+    return {domain:getLastDomainScan(domain)[tool][prop] for domain in Domain.objects}
 
-    def getAllLatestToolProperty(tool, prop):
-        return {domain:getLastDomainScan(domain)[tool][prop] for domain in Domain.objects}
+def getDomainsAndTools():
+    domains = Domain.objects
 
-    def getDomainsAndTools():
-        domains = Domain.objects
+    result = {}
+    for domain in domains:
+        result[domain.url] = [tool.name for tool in Tools.objects(id__nin=domain.disabledTools)]
 
-        result = {}
-        for domain in domains:
-            result[domain.url] = [tool.name for tool in Tools.objects(id__nin=domain.disabledTools)]
+    return result
 
-        return result
+def saveScan(self, scan):
+    for domain, measures in scan.items():
+        self.addMeasuresToDomain(domain, measures)
 
-    def saveScan(self, scan):
-        for domain, measures in scan.items():
-            self.addMeasuresToDomain(domain, measures)
+def createTools(self, tools):
+    mongo_tools = []
 
-    def createTools(self, tools):
-        mongo_tools = []
+    for name, fields in tools.items():
+        t = Tool(name=name, fields=fields)
+        mongo_tools.append(t.save())
 
-        for name, fields in tools.items():
-            t = Tool(name=name, fields=fields)
-            mongo_tools.append(t.save())
+    return mongo_tools
 
-        return mongo_tools
+def createDomains(self, domains):
+    mongo_domains = []
 
-    def createDomains(self, domains):
-        mongo_domains = []
+    for domain in domains:
+        d = Domain(url=domain, )
 
-        for domain in domains:
-            d = Domain(url=domain, )
+        mongo_domains.append(d.save())
 
-            mongo_domains.append(d.save())
+    return mongo_domains
 
-        return mongo_domains
+def addMeasuresToDomain(self, domain_url, measures):
+    import datetime
+    domain = Domain.objects(url=domain_url)
+    if domain:
+        domain = domain[0]
+    else:
+        domain = self.createDomains([domain_url])[0]
 
-    def addMeasuresToDomain(self, domain_url, measures):
-        import datetime
-        domain = Domain.objects(url=domain_url)
-        if domain:
-            domain = domain[0]
-        else:
-            domain = self.createDomains([domain_url])[0]
+    measures = Measure(date=datetime.datetime.now(), scrapes=escape_scrapes(measures))
+    measures.save()
+    return domain.update(add_to_set__measures=measures.id)
 
-        measures = Measure(date=datetime.datetime.now(), scrapes=escape_scrapes(measures))
-        measures.save()
-        return domain.update(add_to_set__measures=measures.id)
+def addDisabledTools(self, domain, tools):
+    domain = Domain.objects(url=domain)
+    if domain:
+        domain = domain[0]
 
-    def addDisabledTools(self, domain, tools):
-        domain = Domain.objects(url=domain)
-        if domain:
-            domain = domain[0]
+        tools_ids = Tool.objects(name__in=tools)
 
-            tools_ids = Tool.objects(name__in=tools)
+        if tools:
+            return domain.update(add_to_set__disabledTools=tools_ids)
+    else:
+        raise RuntimeError('domain={} doesn\'t exist'.format(domain))
 
-            if tools:
-                return domain.update(add_to_set__disabledTools=tools_ids)
-        else:
-            raise RuntimeError('domain={} doesn\'t exist'.format(domain))
-
-database = Database(MONGO_DATABASE, MONGO_URL)
+# database = Database(MONGO_DATABASE, MONGO_URL)
 
 from pprint import pprint as pp
 
